@@ -1,5 +1,6 @@
 Copyright (C) 2020 - ArabicLegacy - www.arabiclegacy.github.io
-Synbucket executable file is free: you can redistribute it and/or  
+
+Synbucket executable file is free: you can redistribute it and/or
 modify it under the terms of the GNU General Public License 
 as published by the Free Software Foundation, either 
 version 3 of the License, or any later version.
@@ -9,7 +10,7 @@ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
 PURPOSE. See the GNU General Public License for more details.
 
 
-#Synbucket
+# Synbucket
 ----------
 Synbucket is a tool to add and rehearse synonyms. It can be used effectively for learning languages vocabularies. Its idea is to provide a way for quickly revising some synonyms that user adds himself to his words database.
 Therefore, it has basically two main functionalities: Adding Synonyms or Revising Synonyms. 
@@ -49,7 +50,7 @@ Synbucket CLI
 ```
 
 
-#Specifications
+# Specifications
 ## Addition
 - User can add word or phrase with its synonym so that he can insert this synonym pair to an associated CSV file.
 - By clicking on "Add Synonym", synonym pair provided in "Word" and "Meaning" fields; will be added into Bucket.CSV.
