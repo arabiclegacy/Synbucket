@@ -1,4 +1,4 @@
-Copyright (C) 2020 - ArabicLegacy - www.arabiclegacy.github.io
+Copyright (C) 2020 - ArabicLegacy - arabiclegacy.github.io
 
 Synbucket executable file is free: you can redistribute it and/or
 modify it under the terms of the GNU General Public License 
