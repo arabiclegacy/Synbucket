@@ -1,3 +1,14 @@
+Copyright (C) 2020 - ArabicLegacy - www.arabiclegacy.github.io
+Synbucket executable file is free: you can redistribute it and/or  
+modify it under the terms of the GNU General Public License 
+as published by the Free Software Foundation, either 
+version 3 of the License, or any later version.
+Synbucket is distributed 'as-is' in the hope that it will be 
+useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR 
+PURPOSE. See the GNU General Public License for more details.
+
+
 #Synbucket
 ----------
 Synbucket is a tool to add and rehearse synonyms. It can be used effectively for learning languages vocabularies. Its idea is to provide a way for quickly revising some synonyms that user adds himself to his words database.
